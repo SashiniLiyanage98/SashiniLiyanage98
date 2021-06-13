@@ -1,4 +1,5 @@
-### Hi there 👋
+ ### Hey, i'm Sashini Liyanage 👋
+ I'm a Computer Engineering student at University of Peradeniya. I'm currently learning about git and github.
 
 <!--
 **SashiniLiyanage98/SashiniLiyanage98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
