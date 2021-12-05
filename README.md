@@ -29,26 +29,23 @@
 ✔ I’m Sashini Liyanage from Kandy, Sri Lanka<br>
 ✔ I’m a 3rd year undergraduate from University of Peradeniya<br>
 ✔ I’m currently learning Machine Learning<br>
-<br><br><br><br>
- 
-<hr>
-<p align="center"><i><b>Skills</b></i></p>
-<br>
-<p align="center">REACT JS | JS | HTML | CSS | ELECTRON JS</p>
 <br><br>
-<hr>
-<p align="center"><i><b>Git Activeness</b></i></p>
-<br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sashininliyanage&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sashininliyanage&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
-
-<hr>
 
 
+***Skills***
+
+✔ React JS<br>
+✔ JavaScrpit<br>
+✔ HTML<br>
+✔ CSS<br>
+✔ Electron JS<br>
+<br><br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sashininliyanage&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="sashini" />
+
+<!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=sashininliyanage&show_icons=true&locale=en&theme=chartreuse-dark" alt="sashini" width="410" />
+<br><br> -->
 <!-- <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=sashininliyanage&theme=juicyfresh&no-bg=true" /> -->
 
-
------
 
