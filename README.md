@@ -1,17 +1,54 @@
- ### Hey, i'm Sashini Liyanage 👋
- I'm a Computer Engineering student at University of Peradeniya. I'm currently learning about git and github.
+<p align="center">
+  <img src="header.jpeg"/>
+</p>
 
-<!--
-**SashiniLiyanage98/SashiniLiyanage98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<!-- <p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=sashininliyanage&color=brightgreen" alt="watching_count" />
+ </p> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <p align="center">
+<img src="https://img.shields.io/badge/Age-23-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
+  <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
+</p>
+<hr>
+
+<h3 align="center">Computer Engineering undergraduate | University of Peradeniya </h3>
+
+<p align="center">
+ <a href = "mailto: nimthara.liyanage@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+</p>
+<hr>
+<br><br>
+
+***About me***
+
+✔ I’m Sashini Liyanage from Kandy, Sri Lanka<br>
+✔ I’m a 3rd year undergraduate from University of Peradeniya<br>
+✔ I’m currently learning Machine Learning<br>
+<br><br><br><br>
+ 
+<hr>
+<p align="center"><i><b>Skills</b></i></p>
+<br>
+<p align="center">REACT JS | JS | HTML | CSS | ELECTRON JS</p>
+<br><br>
+<hr>
+<p align="center"><i><b>Git Activeness</b></i></p>
+<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sashininliyanage&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sashininliyanage&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<br><br><br><br><br>
+
+<hr>
+
+
+<!-- <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=sashininliyanage&theme=juicyfresh&no-bg=true" /> -->
+
+
+-----
+
